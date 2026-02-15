@@ -1,8 +1,6 @@
 # Modern_Java
 
-You’re looking for solid learning resources that match the kind of architectural overview you just captured in your Modern_Java README and that will help your Java developers go deeper into “how Java actually works,” not just syntax. Here are some strong options, grouped by type.
-
-## Official and reference-style resources
+## References:
 
 - **The Java Tutorials (Oracle, archived but still relevant)** – Great for new and intermediate devs; covers classes, objects, packages, JVM basics, and core libraries in a structured way. [interviewbit](https://www.interviewbit.com/blog/java-architecture/)
 - **Java Platform, Standard Edition Technical Documentation (Oracle)** – API docs plus guides for JVM, JRE, JDK, memory model, and concurrency; good “source of truth” to back up what you’ve summarized. [interviewbit](https://www.interviewbit.com/blog/java-architecture/)
